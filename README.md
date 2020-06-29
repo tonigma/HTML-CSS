@@ -1,1 +1,1 @@
-![alt text](https://github.com/tonigma/HTML-CSS/blob/origin/Index.jpg?raw=true)
+![alt text](https://github.com/tonigma/HTML-CSS/master/Origin/Index.jpg?raw=true)
